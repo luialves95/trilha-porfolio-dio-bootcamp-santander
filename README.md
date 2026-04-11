@@ -42,7 +42,6 @@ Portfólio pessoal desenvolvido para o Bootcamp Santander da DIO, com integraç�
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luialves95)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lui%C3%A7%C3%A3-alves-6945a42a8/)
-[![Trilha CSS - Desafio](https://img.shields.io/badge/Repositório-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luialves95/trilha-css-desafio-01)
 
 
 📄 Licença
